@@ -1,0 +1,308 @@
+.t{
+    position: absolute;
+    top: 20%;
+    left: 24%;
+    font-size: 80px;
+    color: black;
+    font-family: Impact;
+    }
+.te{
+    position: absolute;
+    top: 39%;
+    left: 17%;
+    font-size: 55px;
+    color: black;
+    font-family: Impact;
+    }
+.tea{
+    position: absolute;
+    top: 45%;
+    left: 48%;
+    font-size: 40px;
+    color: black;
+    font-family: Impact;
+    }
+.a {
+    background-color: #EF5A3A;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 22%;
+    top: 60%;
+    border-radius: 40px;
+    color: white;
+     font-family: Impact;
+}
+
+.a:hover {
+background-color:#F3A797;
+color: black;
+}
+
+.b {
+    background-color: #EF5A3A;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 37%;
+    top: 60%;
+    border-radius: 40px;
+    color: white;
+     font-family: Impact;
+}
+
+.b:hover {
+background-color:#F3A797;
+color: black;
+}
+
+.c {
+    background-color: #EF5A3A;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 52%;
+    top: 60%;
+    border-radius: 40px;
+    color: white;
+     font-family: Impact;
+}
+
+.c:hover {
+background-color:#F3A797;
+color: black;
+}
+
+.d {
+    background-color: #EF5A3A;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 67%;
+    top: 60%;
+    border-radius: 40px;
+    color: white;
+     font-family: Impact;
+}
+
+.d:hover {
+background-color:#F3A797;
+color: black;
+}
+
+
+
+
+
+
+
+.su {
+    background-color: #30661C;
+    color: white;
+    padding: 15px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 43%;
+    top: 40%;
+    border-radius: 40px;
+    color: black;
+    font-family: Impact;
+}
+.su:hover {
+background-color: #17350D;
+color: white;
+}
+
+.ba {
+    background-color: #30661C;
+    color: white;
+    padding: 15px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 52%;
+    top: 57%;
+    border-radius: 40px;
+    color: black;
+    font-family: Impact;
+}
+.ba:hover {
+background-color: #17350D;
+color: white;
+}
+
+.gif {
+    position: absolute;
+    left: 12%;
+    top: 32%;
+}
+
+.per1{
+    position: absolute;
+    top: -7%;
+    left: 20%;
+    font-size: 80px;
+    color: #BD364B;
+    font-family: Impact;
+
+    }
+
+.per2{
+    position: absolute;
+    top: -7%;
+    left: 16%;
+    font-size: 80px;
+    color: #A23748;
+    font-family: Impact;
+
+    }
+
+.per3{
+    position: absolute;
+    top: -7%;
+    left: 18%;
+    font-size: 80px;
+    color: #7C3641;
+    font-family: Impact;
+
+    }
+
+.per4{
+    position: absolute;
+    top: -7%;
+    left: 19%;
+    font-size: 80px;
+    color: #682832;
+    font-family: Impact;
+
+    }
+.inp1 {
+    background-color: #A1D3BE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 90%;
+    top: 88%;
+    border-radius: 40px;
+    color: black;
+     font-family: Impact;
+}
+
+.inp1:hover {
+background-color:#A1949D;
+color: white;
+}
+
+.inp2{
+    background-color: #A1D3BE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 90%;
+    top: 88%;
+    border-radius: 40px;
+    color: black;
+     font-family: Impact;
+}
+
+.inp2:hover {
+background-color:#A1949D;
+color: white;
+}
+
+.inp3{
+    background-color: #A1D3BE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 90%;
+    top: 88%;
+    border-radius: 40px;
+    color: black;
+     font-family: Impact;
+}
+
+.inp3:hover {
+background-color:#A1949D;
+color: white;
+}
+
+.inp4{
+    background-color: #A1D3BE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 90%;
+    top: 88%;
+    border-radius: 40px;
+    color: black;
+     font-family: Impact;
+}
+
+.inp4:hover {
+background-color:#A1949D;
+color: white;
+}
+
+.img{
+    position: absolute;
+    top: 13%;
+    left: 42%;
+}
